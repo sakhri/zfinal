@@ -10,14 +10,14 @@ public class final1 {
 	}
 	public void afficher2()
 	{
-		System.out.println("deuxiéme test premier fichier");
+		System.out.println("deuxiï¿½me test premier fichier");
 	}
 		
 	public int calculer()
 	{
 		int a=3,b=2,c=0;
 		c=a+b;
-		return c;
+		return a;
 	}
 		
 }
