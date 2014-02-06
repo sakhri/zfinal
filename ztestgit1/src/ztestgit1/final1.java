@@ -13,5 +13,11 @@ public class final1 {
 		System.out.println("deuxiéme test premier fichier");
 	}
 		
-
+	public int calculer()
+	{
+		int a=3,b=2,c=0;
+		c=a+b;
+		return c;
+	}
+		
 }
