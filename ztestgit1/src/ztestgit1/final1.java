@@ -8,5 +8,10 @@ public class final1 {
 	{
 		System.out.println("premier test premier fichier");
 	}
+	public void afficher2()
+	{
+		System.out.println("deuxiéme test premier fichier");
+	}
+		
 
 }
